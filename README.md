@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 Hola, soy Cristhian Flores, soy de Perú y tengo de 19 años🤖🎮<br><br>👨‍💻 Desarrollador Frontend apasionado por el código y la creatividad.<br>🚀 Amante de JavaScript y sus infinitas posibilidades.<br>🎵 Melómano que encuentra inspiración en la música para codificar.<br>🌟 ¡Construyendo el futuro del desarrollo web, un commit a la vez! 🌟
+👾 Hola, soy Cristhian Flores, soy de Perú y tengo de 21 años🤖🎮<br><br>👨‍💻 Desarrollador Frontend apasionado por el código y la creatividad.<br>🚀 Amante de JavaScript y sus infinitas posibilidades.<br>🎵 Melómano que encuentra inspiración en la música para codificar.<br>🌟 ¡Construyendo el futuro del desarrollo web, un commit a la vez! 🌟
 
 
 # 💻 Tech Stack:
